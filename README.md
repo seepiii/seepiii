@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About Me  
-- 🎓 Columbia Engineering ’28, Computer Science major + Aerospace Engineering minor  
+- 🎓 Columbia University ’28, Computer Science major + Aerospace Engineering minor  
 - 💻 Python | Java | C++ | JavaScript | MATLAB | AutoCAD | SolidWorks  
 - 🚀 Interests: product management, fullstack dev, aerospace engineering, automation  
 - 🌎 Languages: English, Hindi, Urdu, Maithili, Spanish  
