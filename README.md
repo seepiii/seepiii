@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### Projects, Publications, and Work  
 - 📡 [Agrisat](https://www.agrisat.world) — NASA SMAP + AI insights for farmers
-- [The Nature of the Motions of Multiphase Filaments in the Centers of Galaxy Clusters](https://doi.org/10.3389/fspas.2023.1138613) - co-authorship in peer-reviewed scientific journal *Frontiers*
+- 🌌 [The Nature of the Motions of Multiphase Filaments in the Centers of Galaxy Clusters](https://doi.org/10.3389/fspas.2023.1138613) - co-authorship in peer-reviewed scientific journal *Frontiers*
 - 🎮 [Settlers of Catan](https://github.com/seepiii/SettlersOfCatan) — Java GUI game  
 - 🌊 [Forbidden Island](https://github.com/seepiii/ForbiddenIsland) — Java GUI game  
 - 💧 [Waterworks](https://github.com/seepiii/congappwebsite) — Web app for public utility safety (made for 2023 Congressional App)
